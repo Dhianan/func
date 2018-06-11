@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <description/>
+        <display_title>false</display_title>
+        <layout>normal</layout>
+        <name>var_functionproduct</name>
+        <order>100</order>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 09:44:31</sys_created_on>
+        <sys_id>c3e6d7b6db22130004429444ca9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>var_functionproduct</sys_name>
+        <sys_package display_value="func product" source="x_47438_func_produ">42b557b2db22130004429444ca9619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="func product">42b557b2db22130004429444ca9619ab</sys_scope>
+        <sys_update_name>item_option_new_set_c3e6d7b6db22130004429444ca9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 09:44:31</sys_updated_on>
+        <title/>
+    </item_option_new_set>
+</record_update>
